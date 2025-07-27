@@ -57,6 +57,8 @@ A CNN-LSTM-Attention model trained on solar wind and magnetic field data from SW
 - Python 3.8+
 - Suggested environment: Google Colab or local Jupyter Notebook
 
+Download data from here:- https://drive.google.com/drive/folders/1KP682x8tB9-upPKgjz5IJH3mVh-ns4ey
+
 ### Running Feature 1 (STEPS-based Statistical Detector)
 
 1. Open `Feature1_Statistical_Shock_Detector.ipynb` from the `notebooks/` directory.
